@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1597581468 source:/home/arv/.config/codeblocks/farm_house/main.cpp
+ source:/home/arv/.config/codeblocks/farm_house/main.cpp
 	<iostream>
 	<GL/glut.h>
 	<stdlib.h>
